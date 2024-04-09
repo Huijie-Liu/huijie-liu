@@ -29,7 +29,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/huijie-liu/huijie-liu/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: llhhjj6588@gmail.com ">llhhjj6588@gmail.com </a>
+  📫 How to reach me: <a href="mailto:  huijieliu@buaa.edu.cn  ">  huijieliu@buaa.edu.cn  </a>
 </p>
 
 <hr>
