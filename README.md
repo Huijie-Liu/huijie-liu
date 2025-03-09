@@ -6,12 +6,12 @@
 
 <br>
 <p align="center">
-  Hi, I'm Jay Hwei, a Computer Engineer & Software Developer.
+  Hi, I'm Jay Hwei, a Software Developer & Algorithm Engineer.
   <br>
   <br>
-  🔬 I'm currently studying at Beihang University, School of software (Master) 
+  🔬 I'm currently studying Deep Learning & Computer Vision at Beihang University, School of software (Master) 
   <br>
-    🎓 I graduated from Beijing Jiaotong University, School of software (Undergraduate) -->
+    🎓 I graduated from Beijing Jiaotong University, School of software (Undergraduate)
   <br>
 <!--   🎓 I graduated from Atatürk University, Department of Computer Engineering (Master) -->
 <!--   <br> -->
@@ -21,13 +21,11 @@
 <!--   <br> -->
   💻 I love writing code and find cool things
   <br>
-  📚 I’m currently learning Deep Learning & Computer Vision
-  <br>
+<!--   📚 I’m currently learning Deep Learning & Computer Vision -->
+<!--   <br> -->
 <!--   💬 Ask me anything about from <a href="https://github.com/huijie-liu/huijie-liu/issues" title="Issues">Here</a> -->
   💬 Ask me anything about from <a href="https://huijie-liu.github.io/faq/" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto:  huijieliu@buaa.edu.cn  ">  huijieliu@buaa.edu.cn  </a>
 </p>
-
-
 <hr>
