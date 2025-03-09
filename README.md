@@ -1,15 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Huijie+Liu...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jay+Hwei...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, I'm Huijie Liu, a Computer Engineer & Software Developer.
+  Hi, I'm Jay Hwei, a Computer Engineer & Software Developer.
   <br>
   <br>
-  🔬 I'm currently studying for my master degree at BUAA
+  🔬 I'm currently studying at Beihang University, School of software (Master) 
+  <br>
+    🎓 I graduated from Beijing Jiaotong University, School of software (Undergraduate) -->
   <br>
 <!--   🎓 I graduated from Atatürk University, Department of Computer Engineering (Master) -->
 <!--   <br> -->
@@ -17,7 +19,7 @@
 <!--   <br> -->
 <!--   🎓 I graduated from Erzurum İbrahim Hakkı Science High School -->
 <!--   <br> -->
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and find cool things
   <br>
   📚 I’m currently learning Deep Learning & Computer Vision
   <br>
